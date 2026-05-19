@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 RousseGamesStudio
+#  RousseGamesStudio
   
 ![Banner](banner.png)
 
@@ -14,7 +14,8 @@
   <a href="https://roussegamesstudio.carrd.co/"><img src="https://img.shields.io/badge/Carrd-00E0B8?style=for-the-badge&logo=carrd&logoColor=white" /></a>
   <a href="https://roussegamesstudio.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
   <a href="https://twitter.com/RousseStudio_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://youtube.com/@roussetudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@roussestudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@roussestudiogames"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 </div>
