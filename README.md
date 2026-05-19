@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 RousseGamesStudio
+#  RousseGamesStudio
   
 ![Banner](banner.png)
 
@@ -8,28 +8,29 @@
 
 ---
 
-"Donde la realidad se distorsiona y los píxeles cuentan historias que preferirías olvidar."
+"Haciendo juegos de terror con píxeles y mucho café."
 
 [🌐 Mi Carrd](https://roussegamesstudio.carrd.co/) • [🎮 Itch.io](https://roussegamesstudio.itch.io/) • [🐦 Twitter](https://twitter.com/RousseStudio_)
 
 </div>
 
-## 📖 Biografía
-¡Hola! Soy **Rousse**. Me apasiona crear experiencias inmersivas de terror utilizando arte retro. Mi enfoque actual es el desarrollo de narrativas oscuras y atmósferas opresivas a través del pixel art. Cuando no estoy programando lógica en **Java**, estoy dando vida a pesadillas en **RPG Maker MZ** o detallando cada frame en **Aseprite**.
+## ✍️ Sobre mí
+¡Hola! Soy **Rousse**. Actualmente estoy estudiando ingeniería y me dedico a desarrollar juegos de terror psicológico en 2D. Me enfoco bastante en la narrativa y en que el pixel art logre transmitir esa vibra oscura que busco.
+
+Si no estoy peleándome con el código en **Java**, seguro me encuentras diseñando escenas en **RPG Maker MZ** o dibujando personajes y entornos en **Aseprite**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-
+## 🛠️ Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/RPG%20Maker%20MZ-FF0000?style=for-the-badge&logo=rpgmaker&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-## 🚀 Proyectos Actuales
-- 🕯️ **Horror Game Project:** Un juego de terror 2D protagonizado por un hermano y su hermana, explorando traumas y entornos sombríos.
-- 🎨 **Pixel Art Assets:** Diseñando personajes 64x64 y tilesets para ambientes de casa embrujada.
+## 🚀 En qué estoy trabajando
+- 🕯️ **Proyecto de Terror:** Un juego 2D sobre la historia de un hermano y su hermana.
+- 🎨 **Pixel Art:** Creando tilesets y animaciones (64x64) para el juego.
 
 ---
 
