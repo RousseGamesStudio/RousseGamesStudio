@@ -8,27 +8,28 @@
 
 ---
 
-"Creando mundos donde los píxeles cobran vida en la oscuridad."
+"Donde la realidad se distorsiona y los píxeles cuentan historias que preferirías olvidar."
 
 [🌐 Mi Carrd](https://roussegamesstudio.carrd.co/) • [🎮 Itch.io](https://roussegamesstudio.itch.io/) • [🐦 Twitter](https://twitter.com/RousseStudio_)
 
 </div>
 
+## 📖 Biografía
+¡Hola! Soy **Rousse**. Me apasiona crear experiencias inmersivas de terror utilizando arte retro. Mi enfoque actual es el desarrollo de narrativas oscuras y atmósferas opresivas a través del pixel art. Cuando no estoy programando lógica en **Java**, estoy dando vida a pesadillas en **RPG Maker MZ** o detallando cada frame en **Aseprite**.
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
+  <img src="https://img.shields.io/badge/RPG%20Maker%20MZ-FF0000?style=for-the-badge&logo=rpgmaker&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## 🚀 Proyectos Actuales
-- 🕯️ **Horror Game Project:** Un juego de terror 2D en Godot protagonizado por un hermano y su hermana.
-- 🎨 **Pixel Art Assets:** Creación de entornos y personajes en Aseprite.
-
-## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RousseGamesStudio&show_icons=true&theme=tokyonight&hide_border=true)
+- 🕯️ **Horror Game Project:** Un juego de terror 2D protagonizado por un hermano y su hermana, explorando traumas y entornos sombríos.
+- 🎨 **Pixel Art Assets:** Diseñando personajes 64x64 y tilesets para ambientes de casa embrujada.
 
 ---
 
