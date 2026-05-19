@@ -1,6 +1,6 @@
 <div align="center">
 
-#  RousseGamesStudio
+# 🌙 RousseGamesStudio
   
 ![Banner](banner.png)
 
@@ -10,22 +10,27 @@
 
 "Haciendo juegos de terror con píxeles y mucho café."
 
-[🌐 Mi Carrd](https://roussegamesstudio.carrd.co/) • [🎮 Itch.io](https://roussegamesstudio.itch.io/) • [🐦 Twitter](https://twitter.com/RousseStudio_)
+<p align="center">
+  <a href="https://roussegamesstudio.carrd.co/"><img src="https://img.shields.io/badge/Carrd-00E0B8?style=for-the-badge&logo=carrd&logoColor=white" /></a>
+  <a href="https://roussegamesstudio.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
+  <a href="https://twitter.com/RousseStudio_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://youtube.com/@roussetudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 </div>
 
 ## ✍️ Sobre mí
 ¡Hola! Soy **Rousse**. Actualmente estoy estudiando ingeniería y me dedico a desarrollar juegos de terror psicológico en 2D. Me enfoco bastante en la narrativa y en que el pixel art logre transmitir esa vibra oscura que busco.
 
-Si no estoy peleándome con el código en **Java**, seguro me encuentras diseñando escenas en **RPG Maker MZ** o dibujando personajes y entornos en **Aseprite**.
+Para mis proyectos uso principalmente **RPG Maker MZ** y **XP**, y diseño todos los personajes y entornos en **Aseprite**.
 
 ---
 
 ## 🛠️ Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/RPG%20Maker%20MZ-FF0000?style=for-the-badge&logo=rpgmaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RPG%20Maker%20XP-B00000?style=for-the-badge&logo=rpgmaker&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ## 🚀 En qué estoy trabajando
