@@ -21,7 +21,7 @@
 </div>
 
 ## ✍️ Sobre mí
-¡Hola! Soy **Rousse**. Actualmente estoy estudiando ingeniería y me dedico a desarrollar juegos de terror psicológico en 2D. Me enfoco bastante en la narrativa y en que el pixel art logre transmitir esa vibra oscura que busco.
+¡Hola! Soy **Rousse**. Actualmente me estoy dedicando a desarrollar juegos de terror psicológico en 2D. Me enfoco bastante en la narrativa y en que el pixel art logre transmitir esa vibra oscura que busco.
 
 Para mis proyectos uso principalmente **RPG Maker MZ** y **XP**, y diseño todos los personajes y entornos en **Aseprite**.
 
